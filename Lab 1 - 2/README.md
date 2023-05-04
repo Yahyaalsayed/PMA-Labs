@@ -3,7 +3,7 @@
 1. 54 engines detected file as malicious.
 2. file is packed using UPX Packer
 3. there is interesting imports as CreateService, InternetOpen, and InternetOpenURL.
-4. Network-Based Indicator >  http://www.malwareanalysisbook.com  . & Host-Based Indicator > MalService 
+4. Network-Based Indicator >  http://www.malwareanalysisbook.com   & Host-Based Indicator > MalService 
 
 ## demonstrate lab01-02.exe :
 
